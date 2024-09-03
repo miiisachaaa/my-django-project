@@ -1,0 +1,17 @@
+# Pythonバイトコード
+*.pyc
+__pycache__/
+
+# SQLiteデータベースファイル
+db.sqlite3
+
+# 静的ファイル
+staticfiles/
+
+# 環境変数ファイル
+.env
+
+# その他の設定ファイル
+*.log
+.venv/
+
